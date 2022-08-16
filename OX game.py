@@ -3,7 +3,7 @@ import tkinter.messagebox
 
 root = Tk()
 root.geometry("1350x750+0+0")
-root.title("Tic Tac Toe")
+root.title("Tic Tac Toe By Muni Balaji")
 root.configure(background='mistyrose')
 Tops = Frame(root, bg='blue', pady=2, width=1350, height=100, relief=RIDGE)
 Tops.grid(row=0, column=0)
